@@ -10,4 +10,4 @@ DEPLOYED LINK:
 https://noctiluca-scintillans.github.io/PhraseGenerator/
   
 SCREENSHOT:
-Screenshot.png
+![](Screenshot.png)
