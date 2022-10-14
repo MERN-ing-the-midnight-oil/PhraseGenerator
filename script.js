@@ -21,7 +21,7 @@ function generatePassword() {
   //more prompts for greater variety could go here such as "Do you like Countries, or Natural Places?"
 
  //types of words //obviously this would be stronger with longer word lists, but I didn't want to clog the screen
-var adjectiveList = ["Angry", "Boring", "Crazy", "Dead", "Early", "famous", "goth", "hardy", "Impressive", "Jolly", "Killer", "Limey", "massive"]
+var adjectiveList = ["Angry", "Boring", "Crazy", "Dead", "Early", "Famous", "Goth", "Hardy", "Impressive", "Jolly", "Killer", "Limey", "massive"]
 var animalList = ["Aardvark", "Bear", "Cougar", "Dodo", "Elephant", "Frog", "Gorilla", "Hippo", "Iguana", "Jaguar", "Kangaroo", "Lion",]
 var plantList = ["Asparagus", "Bamboo", "Carnation", "Daffodil", "Epiphyte", "Flax", "Fern", "Spruce", "Maple", "Rose"]
 var verbList = ["Runs","Walks","Cooks","Eats","SleepsIn","playsIn","visits","Studies","Attacks","Defends", "Hates", "Worships"]
